@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dianah</h1>
 <h3 align="center">A passionate programmer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ddlite92" alt="ddlite92" /></a> </p>
+<img src="https://raw.githubusercontent.com/ddlite92/ddlite92/output/snake.svg" alt="Snake animation" />
 
 - 🔭 I’m currently working on **various animation projects**
 
