@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Web Development**
 
-- 👨‍💻 All of my projects are available at [https://junki2497.wixsite.com/ddlite](https://junki2497.wixsite.com/ddlite)
+- 👨‍💻 All of my projects are available at [https://junki2497.wixsite.com/ddlite]([https://junki2497.wixsite.com/ddlite](https://ddlite92.github.io/))
 
 - 📫 How to reach me **junki2497@yahoo.com**
 
