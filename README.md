@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dianah</h1>
 <h3 align="center">A passionate programmer</h3>
-
+###
 <img src="https://raw.githubusercontent.com/ddlite92/ddlite92/output/snake.svg" alt="Snake animation" />
+###
 
 - 🔭 I’m currently working on **various animation projects**
 
