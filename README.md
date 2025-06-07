@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Dianah</h1>
-<h3 align="center">A passionate programmer</h3>
-###
-<img src="https://raw.githubusercontent.com/ddlite92/ddlite92/output/snake.svg" alt="Snake animation" />
-###
+<h1 align="center">Hi 👋, I'm Dianah | A passionate programmer</h1>
 
-- 🔭 I’m currently working on **various animation projects**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🌱 I’m currently learning **Python, Web Development**
+- 🔭 I’m currently working on **various animation projects** and following a roadmap to become a **Full Stack Developer**
 
 - 👨‍💻 All of my projects are available at [https://ddlite92.github.io/](https://ddlite92.github.io/)
 
