@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **various animation projects** and following a roadmap to become a **Full Stack Developer**
 
-- 👨‍💻 All of my projects are available at [Didi is a DEV/](https://didi.is-a.dev/)
+- 👨‍💻 All of my projects are available at [Didi is a DEV](https://didi.is-a.dev/)
 
 - 📫 How to reach me **junki2497@yahoo.com**
 
