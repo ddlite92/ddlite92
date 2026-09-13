@@ -1,7 +1,7 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=I'm%20Dianah%20%F0%9F%91%8B%20%7C%20A%20programmer%20and%20SWE%20wannabe&fontSize=32&animation=fadeIn&textColor=011627" />
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=I'm%20Dianah%20%F0%9F%91%8B%20%7C%20A%20programmer%20and%20SWE%20wannabe&fontSize=32&animation=fadeIn&textColor=82aaff" alt="ddlite92 header" width="100%" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=I'm%20Dianah%20%F0%9F%91%8B%20%7C%20A%20programmer%20and%20SWE%20wannabe&fontSize=32&animation=fadeIn&color=0:24292f,100:57606a&textColor=24292f" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=I'm%20Dianah%20%F0%9F%91%8B%20%7C%20A%20programmer%20and%20SWE%20wannabe&fontSize=32&animation=fadeIn&color=0:c9d1d9,100:8b949e&textColor=c9d1d9" alt="ddlite92 header" width="100%" />
 </picture>
 </p>
 
