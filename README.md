@@ -1,5 +1,8 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20Dianah%20%F0%9F%91%8B%20%7C%20A%20programmer%20and%20SWE%20wannabe&fontSize=32&animation=fadeIn" alt="ddlite92 header" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20Dianah%20%F0%9F%91%8B%20%7C%20A%20programmer%20and%20SWE%20wannabe&fontSize=32&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b26,50:414868,100:7aa2f7&height=200&section=header&text=I'm%20Dianah%20%F0%9F%91%8B%20%7C%20A%20programmer%20and%20SWE%20wannabe&fontSize=32&animation=fadeIn&textColor=ffffff" alt="ddlite92 header" width="100%" />
+</picture>
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
