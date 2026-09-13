@@ -28,20 +28,10 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=ddlite92&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85956107%3Fu%3D6190594f6b6a79308d3eeda765aacf9076857da8%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=ddlite92&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85956107%3Fu%3D6190594f6b6a79308d3eeda765aacf9076857da8%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="dianah_ddlite92 open-source technology toolbox" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=ddlite92&layout=compact&theme=default&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ddlite92&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="dianah_ddlite92 top languages" />
 </picture>
 </p>
-
-<table width="100%">
-<tr>
-<td width="20%" align="center"><strong>HTML</strong><br /><sub>36%</sub></td>
-<td width="20%" align="center"><strong>Python</strong><br /><sub>28%</sub></td>
-<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>19%</sub></td>
-<td width="20%" align="center"><strong>GDScript</strong><br /><sub>4%</sub></td>
-<td width="20%" align="center"><strong>CSS</strong><br /><sub>2%</sub></td>
-</tr>
-</table>
 
 <h2>Repositories worth exploring</h2>
 
@@ -65,8 +55,8 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=ddlite92&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85956107%3Fu%3D6190594f6b6a79308d3eeda765aacf9076857da8%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=ddlite92&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F85956107%3Fu%3D6190594f6b6a79308d3eeda765aacf9076857da8%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="dianah_ddlite92 open-source signal" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=ddlite92&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-stats-extended.vercel.app/api?username=ddlite92&show_icons=true&theme=tokyonight&hide_border=true" width="100%" alt="dianah_ddlite92 GitHub stats" />
 </picture>
 </p>
 
