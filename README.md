@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Dianah | A programmer</h1>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=I'm%20Dianah%20%F0%9F%91%8B%20%7C%20A%20programmer%20and%20SWE%20wannabe&fontSize=32&animation=fadeIn" alt="ddlite92 header" width="100%" />
+</p>
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="left">
