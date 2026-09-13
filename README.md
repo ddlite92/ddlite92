@@ -15,12 +15,12 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3>Focus</h3><p><code>HTML</code> · <code>Python</code> · <code>JavaScript</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>7 public repositories · 2 stars</p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>7 public repositories · 2 stars · 7 followers</p></td>
 <td width="33%" valign="top"><h3>Contribution</h3><p>880 contributions · 179 active days</p></td>
 </tr>
 </table>
 
-<p>Code Hobbyist</p>
+<p>Status : building and learning. No shipping</p>
 
 <h2>Open-source toolbox</h2>
 
@@ -35,12 +35,11 @@
 
 <table width="100%">
 <tr>
-<td width="17%" align="center"><strong>HTML</strong><br /><sub>36%</sub></td>
-<td width="17%" align="center"><strong>Python</strong><br /><sub>28%</sub></td>
-<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>19%</sub></td>
-<td width="17%" align="center"><strong>PLSQL</strong><br /><sub>11%</sub></td>
-<td width="17%" align="center"><strong>GDScript</strong><br /><sub>4%</sub></td>
-<td width="17%" align="center"><strong>CSS</strong><br /><sub>2%</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>36%</sub></td>
+<td width="20%" align="center"><strong>Python</strong><br /><sub>28%</sub></td>
+<td width="20%" align="center"><strong>JavaScript</strong><br /><sub>19%</sub></td>
+<td width="20%" align="center"><strong>GDScript</strong><br /><sub>4%</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>2%</sub></td>
 </tr>
 </table>
 
