@@ -3,7 +3,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 🔭 I’m currently working on **various animation projects** and following a roadmap to become a **Full Stack Developer**
+- 🔭 I’m currently working on **technical workflow in an animation studio**, highly related to **Blender**
+
+- 🌱 Still learning to become a **Software Engineer**, building things useful to other people
 
 - 👨‍💻 All of my projects are available at [Didi is a DEV](https://didi.is-a.dev/)
 
